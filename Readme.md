@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Валерия Заика](https://up.htmlacademy.ru/htmlcss/37/user/2370831).
-* Наставник: `Неизвестно`.
+* Наставник: `Maxim Vorozhtsov`(https://htmlacademy.ru/profile/id485797).
 
 ---
 
